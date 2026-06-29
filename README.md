@@ -20,7 +20,7 @@ Desenvolvedora Front-End com experiência em criação de interfaces modernas, r
 ## 🌐 Projeto
 
 🔗 Portfólio:
-https://SEU-LINK.vercel.app
+https://portfolio-jade-one-31.vercel.app/
 
 ## 👩‍💻 Desenvolvido por
 
