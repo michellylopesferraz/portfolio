@@ -20,7 +20,7 @@ Desenvolvedora Front-End com experiência em criação de interfaces modernas, r
 ## 🌐 Projeto
 
 🔗 Portfólio:
-https://portfolio-jade-one-31.vercel.app/
+https://michellyferraz.vercel.app/
 
 ## 👩‍💻 Desenvolvido por
 
